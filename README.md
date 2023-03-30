@@ -3,8 +3,11 @@
 This python script will convert a MP4 into multiple smaller video files.
 
 Take a full length video such as ..
+
 ![](documentation/full_video.png)
+
 .. and create random clips of various lengths that look like ..
+
 ![](documentation/clipped_video.png)
 
 The user can set the input file.
