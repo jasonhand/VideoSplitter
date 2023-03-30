@@ -1,6 +1,9 @@
 # Video Splitter
 
 This python script will convert a MP4 into multiple smaller video files.
+Paremeters allow you to choose a region of the original video to clip. 
+
+This is useful if you want to capture only a portion of a landscape format video and save it in an upright (portrait) format for use as "short-form" video content such as YouTube Shorts, Instagram Reels, TikTok, and more.
 
 Take a full length video such as ..
 
