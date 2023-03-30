@@ -10,11 +10,12 @@ Take a full length video such as ..
 
 ![](documentation/clipped_video.png)
 
+## The user can set the following parameters
+
 The user can set the input file.
 ```
 input_file = "video/Ep77.mp4"
 ```
-## The user can set the following parameters
 
 - Max and Min length (in seconds) of clipped video
 - Number of clippped videos to generate
@@ -60,3 +61,6 @@ file_prefix = "Ep77-mov_"
     crop_x2 = crop_x1 + crop_width
     crop_y2 = crop_y1 + crop_height
 ```
+
+
+>NOTE: You will need ffmpeg installed locally
