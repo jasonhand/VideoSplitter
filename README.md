@@ -20,19 +20,19 @@ Take a full length video such as ..
 - Dimensions of region to crop
 - Region of original video to crop
 
-The user can set the input file.
+**The user can set the input file**
 
 ```
 input_file = "video/Ep77.mp4"
 ```
 
-**Length of clipped videos.**
+**Length of clipped videos**
 
 ```
 min_duration = 37
 max_duration = 59
 ```
-**Number of clipped videos.**
+**Number of clipped videos**
 
 ```
 num_clips = 30
@@ -42,7 +42,7 @@ num_clips = 30
 ```
 burn_in_image_path = "images/77-header.png"
 ```
-**Length of clipped videos.**
+**Length of clipped videos**
 
 ```
 file_prefix = "Ep77-mov_"
